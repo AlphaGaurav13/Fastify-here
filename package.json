@@ -1,0 +1,29 @@
+{
+  "name": "fastify-here",
+  "version": "1.0.0",
+  "description": "An efficient server",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node src/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlphaGaurav13/Fastify-here.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AlphaGaurav13/Fastify-here/issues"
+  },
+  "homepage": "https://github.com/AlphaGaurav13/Fastify-here#readme",
+  "dependencies": {
+    "fastify": "^5.8.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
